@@ -2,8 +2,8 @@
 	"ADS":
 		   {
 		
-			"rewarde_type":"yandex",
-			"inter_type":"admob",
+			"rewarde_type":"ironsource",
+			"inter_type":"ironsource",
 			
 			
 			
@@ -11,7 +11,7 @@
 			
 			"appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 			   
-         	"ironsource_id" : "11c7e1165",
+         	"ironsource_id" : "1639eb565",
 			   
 			"interstitial_yandex":"adf-279013/966533",
 			 "rewarde_yandex":"adf-279013/966487",  
